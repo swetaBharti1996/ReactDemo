@@ -1,0 +1,19 @@
+/* .ok{
+    display: flex;
+    justify-content: space-around;
+   
+} */
+.card {display:inline-block;
+float: left;
+}
+
+  .card:hover {
+    box-shadow: 1px 2px 4px 8px rgba(33,33,33,.2); 
+  }
+  .books{
+    color:#00BFFF;
+}
+.contact {
+    color:#00BFFF;
+ 
+}
